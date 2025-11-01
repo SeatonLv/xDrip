@@ -6,6 +6,7 @@
 
 <img align="right" src="https://travis-ci.org/jamorham/xDrip-plus.svg?branch=master"><a align="right" title="Crowdin" target="_blank" href="https://crowdin.com/project/xdrip"><img align="right" src="https://badges.crowdin.net/xdrip/localized.svg"></a>
 
+
 ## Features
 * Voice, Keypad or Watch input of Treatments (Insulin/Carbs/Notes)
 * Visualization of Insulin and Carb action curves + Undo/Redo
